@@ -8,5 +8,5 @@ In this chapter of our project, I developed a dashboard to analyze customer segm
 - Customer Behavior Insights – Promo usage, payment methods, time-of-day activity
 - Cuisine Preferences – Top cuisines per cluster and visual comparison
 
-The visualisation of the dashboard is attached to the report. Please see this PDF file:
+The visualisation of the dashboard is attached to the report in Section **Appendix**. Please see this PDF file:
 'project_report.pdf'
