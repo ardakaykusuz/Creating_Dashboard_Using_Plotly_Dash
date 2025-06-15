@@ -7,3 +7,6 @@ In this chapter of our project, I developed a dashboard to analyze customer segm
 - Regional Analysis – Density maps and region-based metrics
 - Customer Behavior Insights – Promo usage, payment methods, time-of-day activity
 - Cuisine Preferences – Top cuisines per cluster and visual comparison
+
+The visualisation of the dashboard is attached to the report. Please see this PDF file:
+'project_report.pdf'
